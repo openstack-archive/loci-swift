@@ -1,0 +1,8 @@
+Code-Review+2: Sam Yaple <sam@yaple.net>
+Workflow+1: Sam Yaple <sam@yaple.net>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 18 Oct 2017 17:28:29 +0000
+Reviewed-on: https://review.openstack.org/512689
+Project: openstack/loci-swift
+Branch: refs/heads/master
