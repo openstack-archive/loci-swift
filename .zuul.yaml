@@ -1,5 +1,4 @@
 - project:
-    name: openstack/loci-swift
     check:
       jobs:
         - noop
